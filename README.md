@@ -26,3 +26,14 @@ Plně funkční React aplikace pro prohlížení, filtrování a nákup memů! �
 | `/cart` | Košík |
 
 ## 🚀 **Technologie:**
+- React 18 - React Router - Context API
+- useState - useEffect - useCallback
+- Inline Styles - Responsive Design
+- localStorage - Custom Hooks
+
+## 🛠 **Spuštění:**
+```bash
+npm install
+npm start
+
+Otevře se: http://localhost:3000
