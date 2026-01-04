@@ -1,0 +1,22 @@
+export const MEMES_DATA = [
+  {id:1, name:"Drake Hotline Bling", url:"https://dummyimage.com/350x280/667eea/ffffff.png&text=Drake", width:350,height:280, category:"celebrities"},
+  {id:2, name:"Distracted Boyfriend", url:"https://dummyimage.com/350x240/f093fb/ffffff.png&text=Boyfriend", width:350,height:240, category:"celebrities"},
+  {id:3, name:"Success Kid", url:"https://dummyimage.com/280x280/10b981/ffffff.png&text=Success", width:280,height:280, category:"gaming"},
+  {id:4, name:"Is This A Pigeon", url:"https://dummyimage.com/320x240/3b82f6/ffffff.png&text=Pigeon", width:320,height:240, category:"random"},
+  {id:5, name:"Doge", url:"https://dummyimage.com/300x300/f59e0b/ffffff.png&text=Doge", width:300,height:300, category:"animals"},
+  {id:6, name:"Change My Mind", url:"https://dummyimage.com/400x300/ef4444/ffffff.png&text=Steven", width:400,height:300, category:"celebrities"},
+  {id:7, name:"Mocking SpongeBob", url:"https://dummyimage.com/320x280/fbbf24/000.png&text=SpongeBob", width:320,height:280, category:"celebrities"},
+  {id:8, name:"Woman Yelling At Cat", url:"https://dummyimage.com/380x300/10b981/fff.png&text=Cat", width:380,height:300, category:"celebrities"},
+  {id:9, name:"Grumpy Cat", url:"https://dummyimage.com/280x320/ec4899/fff.png&text=Grumpy", width:280,height:320, category:"animals"},
+  {id:10, name:"This Is Fine Dog", url:"https://dummyimage.com/350x280/06b6d4/fff.png&text=This+Is+Fine", width:350,height:280, category:"animals"},
+  {id:11, name:"Evil Kermit", url:"https://dummyimage.com/320x400/8b5cf6/fff.png&text=Kermit", width:320,height:400, category:"animals"},
+  {id:12, name:"Press F To Pay Respect", url:"https://dummyimage.com/350x250/f97316/fff.png&text=Press+F", width:350,height:250, category:"gaming"},
+  {id:13, name:"Mocking Spongebob Gaming", url:"https://dummyimage.com/300x280/14b8a6/fff.png&text=GG+EZ", width:300,height:280, category:"gaming"},
+  {id:14, name:"You vs The Guy She Told You Not To Worry About", url:"https://dummyimage.com/400x300/84cc16/fff.png&text=You+vs+Him", width:400,height:300, category:"gaming"},
+  {id:15, name:"Expanding Brain", url:"https://dummyimage.com/400x300/06b6d4/ffffff.png&text=Brain", width:400,height:300, category:"school"},
+  {id:16, name:"Distracted Boyfriend School", url:"https://dummyimage.com/350x240/ea580c/fff.png&text=Homework", width:350,height:240, category:"school"},
+  {id:17, name:"Is This A Pigeon School", url:"https://dummyimage.com/320x240/3b82f6/fff.png&text=Homework?", width:320,height:240, category:"school"},
+  {id:18, name:"Surprised Pikachu School", url:"https://dummyimage.com/280x280/facc15/000.png&text=Pikachu", width:280,height:280, category:"school"},
+  {id:19, name:"Galaxy Brain", url:"https://dummyimage.com/450x350/a855f7/fff.png&text=Galaxy+Brain", width:450,height:350, category:"random"},
+  {id:20, name:"Bernie Sanders Mittens", url:"https://dummyimage.com/380x300/059669/fff.png&text=Bernie", width:380,height:300, category:"random"}
+];
